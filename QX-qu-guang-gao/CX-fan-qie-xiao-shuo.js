@@ -1,3 +1,4 @@
+; 番茄小说广告,version = 3.0
 host, p6-ad-sign.byteimg.com, reject
 host, p9-ad-sign.byteimg.com, reject
 host, i.snssdk.com, reject
@@ -21,3 +22,9 @@ host, *novelapp.ixigua.com, reject
 host-suffix, byteorge.com, reject
 host-suffix, bytegoofy.com, reject
 host-suffix, bytedance.com, reject
+ip-cidr, 49.71.37.101/32, reject
+ip-cidr, 117.71.105.23/32, reject
+ip-cidr, 218.94.207.205/32, reject
+ip-cidr, 117.92.229.188/32, reject
+ip-cidr, 101.36.166.16/32, reject
+ip-cidr, 180.96.2.114/32, reject
