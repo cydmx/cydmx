@@ -5,9 +5,9 @@
 ^https:\/\/pglstatp-toutiao\.com\/web\/business\/image\/ url reject
 ^https?:\/\/.+\.(pglstatp-toutiao|pstatp)\.com\/obj\/ad-pattern\/renderer url reject
 ^https?:\/\/gurd\.snssdk\.com\/src\/server\/v3\/package url reject
-^https?:\/\/.+\.byteimg.com/tos-cn-i-1yzifmftcy\/(.+)-jpeg\.jpeg  url reject
-^https?:\/\/.+\.pstatp\.com\/obj\/mosaic-legacy\/.+\?from\=ad  url reject
-^https?:\/\/.+\.pstatp\.com\/bytecom\/resource\/track_log\/src\/.+  url reject
+^https://*.byteimg.com/tos-cn-i-1yzifmftcy/
+^https:\/\/*\.pstatp\.com\/obj\/mosaic-legacy\/ url reject
+^https:\/\/*\.pstatp\.com\/bytecom\/resource\/track_log\/src\/ url reject
 ^https?:\/\/.+\.snssdk\.com\/video\/play\/1\/toutiao\/.+\/mp4 url reject
 ^https?:\/\/.+\.snssdk.com\/api\/ad\/.+ url reject
 ^http:\/\/.+\.byteimg\.com\/ad-app-package url reject
