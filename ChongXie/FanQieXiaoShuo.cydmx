@@ -17,6 +17,34 @@
 ^https?:\/\/adim\.pinduoduo\.com\/.+\/toutiao\?.+ url reject
 ^https?:\/\/.+novelapp\.fqnovelvod\.com\/.+\/video\/.+ url reject
 ^http:\/\/.+\.douyincdn\.com\/stage\/.+\.flv url reject
+^https:\/\/zijieapi\.com\/ url reject
+^https:\/\/frontier-toutiao\.snssdk\.com\/ url reject
+^https:\/\/pangolin-sdk-toutiao-b\.com url reject
+^https:\/\/ads5-normal-lf\.zijieapi\.com\/ url reject
+^https:\/\/p6-ad-sign\.byteimg\.com\/ url reject
+^https:\/\/p9-ad-sign\.byteimg\.com\/ url reject
+^https:\/\/i\.snssdk\.com\/ url reject
+^https:\/\/i-lq\.snssdk\.com\/ url reject
+^https:\/\/dig\.bdurl\.net\/ url reject
+^https:\/\/activity-ag\.awemeughun\.com\/ url reject
+^https:\/\/mcs\.snssdk\.com\/ url reject
+^https:\/\/tnc3-alisc1\.snssdk\.com\/ url reject
+^https:\/\/security-lq\.snssdk\.com\/ url reject
+^https:\/\/tnc3-aliec2\.snssdk\.com\/ url reject
+^https:\/\/is\.snssdk\.com\/ url reject
+^https:\/\/msync-im1-vip6-std\.easemob\.com\/ url reject
+^https:\/\/apd-pcdnwxlogin\.teg\.tencent-cloud\.net\/ url reject
+^https:\/\/api\.iegadp\.qq\.com\/ url reject
+^https:\/\/sf3-ttcdn-tos\.pstatp\.com\/ url reject
+^https:\/\/*default\.ixigua\.com\/ url reject
+^https:\/\/v6-novelapp\.ixigua\.com\/ url reject
+^https:\/\/*novelapp\.ixigua\.com\/ url reject
+^https:\/\/ byteorge\.com\/ url reject
+^https:\/\/bytegoofy\.com\/ url reject
+^https:\/\/bytedance\.com\/ url reject
+^https:\/\/toutiao-frontier\.snssdk\.com\/ url reject
+^https:\/\/adim\.pinduoduo\.com\/ url reject
+^https:\/\/whoami\.akamai\.net\/ url reject
 
 
 #添加主机名
