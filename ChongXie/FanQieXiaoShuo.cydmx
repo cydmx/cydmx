@@ -1,9 +1,3 @@
-# 番茄小说，version = 3.0
-#DOMAIN,i.snssdk.com,REJECT
-#DOMAIN,i-lq.snssdk.com,REJECT
-#DOMAIN,dig.bdurl.net,REJECT
-
-# 番茄小说去章末广告
 ^https?:\/\/.+\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/(get_ads|stats|settings)\/ url reject
 ^https?:\/\/.+\.pglstatp-toutiao\.com\/.+\/toutiao\.mp4  url reject
 ^https?:\/\/.+\.(pglstatp-toutiao|pstatp)\.com\/(obj|img)\/(ad-app-package|ad)\/.+ url reject
@@ -17,7 +11,7 @@
 ^https?:\/\/.+\.snssdk.com\/api\/ad\/.+ url reject
 ^http:\/\/.+\.byteimg\.com\/ad-app-package url reject
 ^http:\/\/.+\.byteimg\.com\/web\.business\.image url reject
-^https?:\/\/.+web\.business\.image url reject
+^https?:\/\/.+\.web\.business\.image url reject
 ^https?:\/\/.+\.(pglstatp-toutiao|pstatp)\.com\/(ad-app-package|ad)\/.+ url reject
 ^https?:\/\/adim\.pinduoduo\.com\/.+\/toutiao\?.+ url reject
 ^https?:\/\/.+novelapp\.fqnovelvod\.com\/.+\/video\/.+ url reject
