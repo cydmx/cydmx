@@ -44,6 +44,10 @@
 ^https:\/\/toutiao-frontier\.snssdk\.com\/ url reject
 ^https:\/\/adim\.pinduoduo\.com\/ url reject
 ^https:\/\/whoami\.akamai\.net\/ url reject
+^https:\/\/+\.byteimg\.com\/tos-cn-i-1yzifmftcy\/(\.+)-jpeg\/\.jpeg url reject
+
+
+
 
 
 #添加主机名
