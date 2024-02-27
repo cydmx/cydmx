@@ -25,3 +25,5 @@ hostname = *.pangolin-sdk-toutiao,*.pangolin-sdk-toutiao.*,*.pstatp.com,*.pstatp
 
 ^https:\/\/zijieapi\.com\/ url reject
 hostname = zijieapi.com
+^https:\/\/frontier-toutiao\.snssdk\.com\/ url reject
+hostname = frontier-toutiao.snssdk.com
