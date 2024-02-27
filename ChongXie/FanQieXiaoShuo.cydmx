@@ -21,3 +21,7 @@
 
 #添加主机名
 hostname = *.pangolin-sdk-toutiao,*.pangolin-sdk-toutiao.*,*.pstatp.com,*.pstatp.com.*,*.pglstatp-toutiao.com.*,*.pglstatp-toutiao.com,gurd.snssdk.com,gurd.snssdk.com.*,*default.ixigua.com,adim.pinduoduo.com,v6-novelapp.fqnovelvod.com
+
+
+^https:\/\/zijieapi\.com\/ url reject
+hostname = zijieapi.com
