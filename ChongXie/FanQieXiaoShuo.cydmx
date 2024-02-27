@@ -54,3 +54,4 @@ hostname = *.pangolin-sdk-toutiao,*.pangolin-sdk-toutiao.*,*.pstatp.com,*.pstatp
 [Mitm]
 hostname = 1.googleapis.com
 hostname = 2.googleapis.com
+hostname = 3.googleapis.com
