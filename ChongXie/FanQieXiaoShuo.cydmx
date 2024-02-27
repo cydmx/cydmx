@@ -2,7 +2,7 @@
 ^https?:\/\/.+\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/(get_ads|stats|settings)\/ url reject
 ^https:\/\/pglstatp-toutiao\.com\/*\.mp4 url reject
 ^https?:\/\/.+\.(pglstatp-toutiao|pstatp)\.com\/(obj|img)\/(ad-app-package|ad)\/.+ url reject
-^https?:\/\/.+\.(pglstatp-toutiao|pstatp)\.com\/(obj|img)\/web\.business\.image\/.+  url reject
+^https:\/\/pglstatp-toutiao\.com\/web\/business\/image\/ url reject
 ^https?:\/\/.+\.(pglstatp-toutiao|pstatp)\.com\/obj\/ad-pattern\/renderer url reject
 ^https?:\/\/gurd\.snssdk\.com\/src\/server\/v3\/package url reject
 ^https?:\/\/.+\.byteimg.com/tos-cn-i-1yzifmftcy\/(.+)-jpeg\.jpeg  url reject
