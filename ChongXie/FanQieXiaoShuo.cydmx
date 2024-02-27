@@ -48,8 +48,8 @@
 
 
 
-hostname,1.com
-hostname,2.com
+hostname=1.com,
+hostname=2.com,
 
 
 
