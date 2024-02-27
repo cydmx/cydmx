@@ -5,7 +5,6 @@
 ^https:\/\/pglstatp-toutiao\.com\/web\/business\/image\/ url reject
 ^https?:\/\/.+\.(pglstatp-toutiao|pstatp)\.com\/obj\/ad-pattern\/renderer url reject
 ^https?:\/\/gurd\.snssdk\.com\/src\/server\/v3\/package url reject
-^https:\/\/*\.byteimg\.com\/ url reject
 ^https:\/\/*\.pstatp\.com\/obj\/mosaic-legacy\/ url reject
 ^https:\/\/*\.pstatp\.com\/bytecom\/resource\/track_log\/src\/ url reject
 ^https?:\/\/.+\.snssdk\.com\/video\/play\/1\/toutiao\/.+\/mp4 url reject
@@ -39,7 +38,7 @@
 ^https:\/\/*default\.ixigua\.com\/ url reject
 ^https:\/\/v6-novelapp\.ixigua\.com\/ url reject
 ^https:\/\/*novelapp\.ixigua\.com\/ url reject
-^https:\/\/ byteorge\.com\/ url reject
+^https:\/\/byteorge\.com\/ url reject
 ^https:\/\/bytegoofy\.com\/ url reject
 ^https:\/\/bytedance\.com\/ url reject
 ^https:\/\/toutiao-frontier\.snssdk\.com\/ url reject
