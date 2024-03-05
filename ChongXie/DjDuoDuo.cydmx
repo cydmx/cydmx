@@ -1,4 +1,3 @@
-圈x
 
 #dj多多添加重写
 ^https:\/\/googleads\.g\.doubleclick\.net\/pagead\/interaction\/\?ai= url reject
@@ -7,9 +6,13 @@
 ^https:\/\/api-access\.pangolin-sdk-toutiao1\.com\/api\/ad\/union\/sdk url reject
 ^https:\/\/market\.wsskj520\.cn\/toutiao\/ url reject
 ^https:\/\/gw-w\.jiaoliuqu\.com\/admp\/v1\/Toutiao url reject
+^https:\/\/p2-lm\.adukwai\.com\/bs2 url reject
+^https:\/\/p11-sign\.douyinpic\.com\/ url reject
+^https:\/\/pgdt\.ugdtimg\.com\/ url reject
+
 
 
 
 #dj多多添加主机名
 hostname = googleads.g.doubleclick.net
-,*.g.doubleclick.net,*.*.doubleclick.net,doubleclick.net,log-api.pangolin-sdk-toutiao-b.com,*.pangolin-sdk-toutiao-b.com,*.*-sdk-toutiao-*.com,www.gstatic.cn,api-access.pangolin-sdk-toutiao1.com,*.pangolin-sdk-toutiao1.com,*.pangolin-sdk-toutiao*.com,market.wsskj520.cn,gw-w.jiaoliuqu.com,*.jiaoliuqu.com,
+,*.g.doubleclick.net,*.*.doubleclick.net,doubleclick.net,log-api.pangolin-sdk-toutiao-b.com,*.pangolin-sdk-toutiao-b.com,*.*-sdk-toutiao-*.com,www.gstatic.cn,api-access.pangolin-sdk-toutiao1.com,*.pangolin-sdk-toutiao1.com,*.pangolin-sdk-toutiao*.com,market.wsskj520.cn,gw-w.jiaoliuqu.com,*.jiaoliuqu.com,p2-lm.adukwai.com,*.adukwai.com,p11-sign.douyinpic.com,*.douyinpic.com,pgdt.ugdtimg.com,*.ugdtimg.com,
