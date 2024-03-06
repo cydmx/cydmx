@@ -1,4 +1,3 @@
-#添加重写
 ^https?:\/\/.+\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/(get_ads|stats|settings)\/ url reject
 ^https:\/\/pglstatp-toutiao\.com\/*\.mp4 url reject
 ^https?:\/\/.+\.(pglstatp-toutiao|pstatp)\.com\/(obj|img)\/(ad-app-package|ad)\/.+ url reject
@@ -45,9 +44,12 @@
 ^https:\/\/adim\.pinduoduo\.com\/ url reject
 ^https:\/\/whoami\.akamai\.net\/ url reject
 ^https:\/\/+\.byteimg\.com\/tos-cn-i-1yzifmftcy\/(\.+)-jpeg\/\.jpeg url reject
-
-
-
-
-#添加主机名
-hostname = *.pangolin-sdk-toutiao,*.pangolin-sdk-toutiao.*,*.pstatp.com,*.pstatp.com.*,*.pglstatp-toutiao.com.*,*.pglstatp-toutiao.com,gurd.snssdk.com,gurd.snssdk.com.*,*default.ixigua.com,adim.pinduoduo.com,v6-novelapp.fqnovelvod.com,frontier-toutiao.snssdk.com,zijieapi.com,pangolin-sdk-toutiao-b.com,ads5-normal-lf.zijieapi.com,p6-ad-sign.byteimg.com,p9-ad-sign.byteimg.com,i.snssdk.com,i-lq.snssdk.com,dig.bdurl.net,activity-ag.awemeughun.com,mcs.snssdk.com,tnc3-alisc1.snssdk.com,security-lq.snssdk.com,tnc3-aliec2.snssdk.com,is.snssdk.com,msync-im1-vip6-std.easemob.com,apd-pcdnwxlogin.teg.tencent-cloud.net,api.iegadp.qq.com,sf3-ttcdn-tos.pstatp.com,*default.ixigua.com,v6-novelapp.ixigua.com,*novelapp.ixigua.com,byteorge.com,bytegoofy.com,bytedance.com,toutiao-frontier.snssdk.com,adim.pinduoduo.com,whoami.akamai.net
+^https:\/\/googleads\.g\.doubleclick\.net\/pagead\/interaction\/\?ai= url reject
+^https:\/\/log-api\.pangolin-sdk-toutiao-b\.com\/service url reject
+^https:\/\/www\.gstatic\.cn\/images\/branding\/googlelogo url reject
+^https:\/\/api-access\.pangolin-sdk-toutiao1\.com\/api\/ad\/union\/sdk url reject
+^https:\/\/market\.wsskj520\.cn\/toutiao\/ url reject
+^https:\/\/gw-w\.jiaoliuqu\.com\/admp\/v1\/Toutiao url reject
+^https:\/\/p2-lm\.adukwai\.com\/bs2 url reject
+^https:\/\/p11-sign\.douyinpic\.com\/ url reject
+^https:\/\/pgdt\.ugdtimg\.com\/ url reject
