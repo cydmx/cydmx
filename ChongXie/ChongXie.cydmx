@@ -71,6 +71,9 @@
 ^https:\/\/win\.gdt\.qq\.com\/ url reject
 ^https:\/\/*\.gdt\.qq\.com\/ url reject
 ^http:\/\/d\.image\.i4\.cn\/adInfo\/image\/original\/ url reject
+^https:\/\/list-app-m\.i4\.cn\/getthirdpartyadkeys\.xhtml\?json url reject
+
+
 
 
 #主机名
