@@ -70,7 +70,7 @@
 ^https:\/\/gdfp\.gifshow\.com\/rest\/infra\/gdfp\/a\/ url reject
 ^https:\/\/win\.gdt\.qq\.com\/ url reject
 ^https:\/\/*\.gdt\.qq\.com\/ url reject
-
+^http:\/\/d\.image\.i4\.cn\/adInfo\/image\/original\/ url reject
 
 
 #主机名
