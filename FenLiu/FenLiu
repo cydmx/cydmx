@@ -24,6 +24,9 @@ host-suffix, bytegoofy.com, reject
 host-suffix, bytedance.com, reject
 host, lf-sourcecdn-tos.bytegecko.com, direct
 host, *-ad-sign.byteimg.com, reject
+host, api-access.pangolin-sdk-toutiao1.com, reject
+
+
 
 
 #添加分流ip
