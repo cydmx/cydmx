@@ -25,7 +25,12 @@ host-suffix, bytedance.com, reject
 host, lf-sourcecdn-tos.bytegecko.com, direct
 host, *-ad-sign.byteimg.com, reject
 host, api-access.pangolin-sdk-toutiao1.com, reject
-
+host, sdk.e.qq.com, reject
+host, feed-image.baidu.com, reject
+host, himg.bdimg.com, reject
+host, fc-video.cdn.bcebos.com, reject
+host, union-httpdns.gslb.yy.com, reject
+host, afd.baidu.com, reject
 
 
 
