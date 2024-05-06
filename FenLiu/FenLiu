@@ -31,6 +31,7 @@ host, himg.bdimg.com, reject
 host, fc-video.cdn.bcebos.com, reject
 host, union-httpdns.gslb.yy.com, reject
 host, afd.baidu.com, reject
+host, toblog.ctobsnssdk.com, reject
 
 
 
