@@ -32,6 +32,8 @@ host, fc-video.cdn.bcebos.com, reject
 host, union-httpdns.gslb.yy.com, reject
 host, afd.baidu.com, reject
 host, toblog.ctobsnssdk.com, reject
+host, afdconf.baidu.com, reject
+host, yyrisk-httpproxy.yy.com, reject
 
 
 
